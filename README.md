@@ -5,7 +5,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=staxsum&layout=compact&theme=dark&hide_border=true&langs_count=5)
 
 <br />&nbsp;<br />&nbsp;<br /><hr />
-- [BreachPeek](https://github.com/staxsum/BreachPeek) creator/maintainer - CLI tool for searching leaked credential databases <br />
 - Discord: `@91init` <br />
 - [PGP](https://keybase.io/jaegis): `35F7B19C3B078864` <br />&nbsp;<br />&nbsp;<br />
 <hr /></div>
