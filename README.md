@@ -25,10 +25,10 @@
 
 Feel free to support my work through donations:
 
-**Bitcoin:** `bc1quavqz6cxqzfy4qtvq4zxc4fjgap3s7cmxja0k4`  
-**Ethereum:** `0x5287af72afbc152b09b3bf20af3693157db9e425`  
-**Solana:** `HYZjfEx8NbEMJX1vL1GmGj39zA6TgMsHm5KCHWSZxF4j`  
-**Monero:** `86zv6vTDuG35sdBzBpwVAsD71hbt2gjH14qiesyrSsMkUAWHQkPZyY9TreeQ5dXRuP57yitP4Yn13SQEcMK4MhtwFzPoRR1`
+**BTC:** `bc1quavqz6cxqzfy4qtvq4zxc4fjgap3s7cmxja0k4`  
+**ETH:** `0x5287af72afbc152b09b3bf20af3693157db9e425`  
+**SOL:** `HYZjfEx8NbEMJX1vL1GmGj39zA6TgMsHm5KCHWSZxF4j`  
+**XMR:** `86zv6vTDuG35sdBzBpwVAsD71hbt2gjH14qiesyrSsMkUAWHQkPZyY9TreeQ5dXRuP57yitP4Yn13SQEcMK4MhtwFzPoRR1`
 
 ---
 
