@@ -5,7 +5,7 @@
 `pub.inbox@proton.me`
 
 **PGP:**  
-`EA53 F69D 2D20 D13D 4FEA 96B5 DF93 BFF4 FBFD 6F0D`
+`DF93BFF4FBFD6F0D`
 
 ---
 
