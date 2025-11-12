@@ -1,9 +1,26 @@
-### connect with me:
+**Developer · Security Researcher · OSINT Operator**
 
-**Discord:** `@dnsoff`  
-**Matrix:** `@staxin:matrix.org`  
-**Email:** `pub.inbox@proton.me`  
-**PGP:** `DF93BFF4FBFD6F0D`
+More than a decade deep in the digital grind — building, breaking, fixing, and securing systems.  
+Still chasing the same thing since day one: **freedom through tech**.
+
+---
+
+### Stack & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&color=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&color=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&color=339933)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=4479A1)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=3776AB)
+![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=go&color=00ADD8)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&color=00599C)
+![Markdown](https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&color=000000)
+![Bash](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&color=121011)
+![Batchfile](https://img.shields.io/badge/Batchfile-informational?style=flat&logo=windows&color=0078D6)
+![Windows](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&color=0078D6)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&color=FCC624)
 
 ---
 
@@ -24,7 +41,16 @@
 
 ---
 
-### support my work:
+### Connect
+
+**Discord:** `@dnsoff`  
+**Matrix:** `@staxin:matrix.org`  
+**Email:** `pub.inbox@proton.me`  
+**PGP:** `DF93BFF4FBFD6F0D`
+
+---
+
+### Support
 
 - **BTC:** `bc1quavqz6cxqzfy4qtvq4zxc4fjgap3s7cmxja0k4`  
 - **ETH:** `0x5287af72afbc152b09b3bf20af3693157db9e425`  
@@ -33,4 +59,4 @@
 
 ---
 
-> *Free the knowledge. Say NO to surveillance. Build cool shit. Encrypt everything.*
+> **Free the knowledge. Resist surveillance. Build cool shit. Encrypt everything.**
