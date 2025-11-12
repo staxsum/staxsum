@@ -1,10 +1,3 @@
-**Developer · Security Researcher · OSINT Operator**
-
-More than a decade deep in the digital grind — building, breaking, fixing, and securing systems.  
-Still chasing the same thing since day one: **freedom through tech**.
-
----
-
 ### Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&color=E34F26)
