@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali-557C94?style=plastic&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/BlackArch-333333?style=plastic&logo=archlinux&logoColor=white" />
 
