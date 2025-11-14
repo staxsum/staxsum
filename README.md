@@ -1,6 +1,5 @@
 ### hello 
 
-**developer & cybersecurity enthusiast**
 - pgp: [fingerprint](https://keybase.io/sigchain/pgp_keys.asc)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=staxsum&show_icons=true&theme=transparent)
@@ -25,8 +24,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali-557C94?style=plastic&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/BlackArch-333333?style=plastic&logo=archlinux&logoColor=white" />
 
 **if you find my work useful, consider supporting development:**
 - btc: `3AjgntVi2Dh7oxSmxPS7uDwU1A7i3pmCT3`
