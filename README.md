@@ -1,9 +1,6 @@
 ### hello 
 
 **developer & cybersecurity enthusiast**
-- email: [pub.inbox@proton.me](mailto:pub.inbox@proton.me)
-- discord: `@dnsoff` (user id: 1347766614505951232)
-- matrix: [@staxin:matrix.org](https://matrix.to/#/@staxin:matrix.org)
 - pgp: [fingerprint](https://keybase.io/sigchain/pgp_keys.asc)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=staxsum&show_icons=true&theme=transparent)
