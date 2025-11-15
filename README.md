@@ -1,7 +1,5 @@
 ### hello 
 
-- pgp: [fingerprint](https://keybase.io/sigchain/pgp_keys.asc)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=staxsum&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=staxsum&layout=compact&theme=transparent)
 
